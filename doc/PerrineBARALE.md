@@ -17,4 +17,7 @@ Aujourd'hui, nous avons eu rendez-vous avec Monsieur Sauce, le directeur de la s
 
 ![Capteur humidité](http://www.shop2tout.com/25026-thickbox/arduino-dht11-capteur-numerique-temperature-humidite.jpg "Capteur d'humidité")
 
-Nous avons commencé par définir le type de transmission que nous allons utiliser. On a donc décidé d'utiliser le systeme de transmission d'information LoRa.
+Nous avons commencé par définir le type de transmission que nous allons utiliser. On a donc décidé d'utiliser le systeme de transmission d'information LoRa. Ce systeme permet de transferé des données a plus de 15km, ce qui est suffisant pour l'oredre de grandeur d'un batiments. Cependant les batiments sont construit en pierres ou avec des portes métalliques ou autres qui empechent les ondes de circulait comme il faut. Il est alors possible de rajouter une gateway.
+On récuperera les données transmise à partir des capteurs dans un serveur sur le cloud et les données seront donc visible de n'importe ou. 
+
+Une personne travaillant sur un batiments et ayant placé des capteurs à l'intérieur ne sera donc pas obliger de se déplacer pour récolté ses informations.
