@@ -15,7 +15,7 @@ On a prévu de faire plusieurs capteurs pour pouvoir les placer à différents e
 
 Aujourd'hui, nous avons eu rendez-vous avec Monsieur Sauce, le directeur de la spécialité Bâtiments de polytech Nice-Sophia. Suite à ce rendez-vous, nous avons décider de commencer par faire des capteurs de Température et d'Humidité. 
 
-![Capteur humidité](http://www.shop2tout.com/25026-thickbox/arduino-dht11-capteur-numerique-temperature-humidite.jpg height="200" "Capteur d'humidité")
+![Capteur humidité](http://www.shop2tout.com/25026-thickbox/arduino-dht11-capteur-numerique-temperature-humidite.jpg "Capteur d'humidité")
 
 Nous avons commencé par définir le type de transmission que nous allons utiliser. On a donc décidé d'utiliser le système de transmission d'information LoRa. Ce système permet de transféré des données a plus de 15km, ce qui est suffisant pour l'ordre de grandeur d'un bâtiment. Cependant les bâtiments sont construits en pierres ou avec des portes métalliques ou autres qui empêchent les ondes de circulait comme il faut. Il est alors possible de rajouter une gateway.
 On récupèrera les données transmises à partir des capteurs dans un serveur sur le cloud et les données seront donc visible de n'importe où. 
