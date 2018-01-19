@@ -21,3 +21,5 @@ Nous avons commencé par définir le type de transmission que nous allons utilis
 On récupèrera les données transmises à partir des capteurs dans un serveur sur le cloud et les données seront donc visible de n'importe où. 
 
 Une personne travaillant sur un bâtiment et ayant placé des capteurs à l'intérieur ne sera donc pas obliger de se déplacer pour récolté ses informations.
+
+Nous avons également commencé à coder pour le capteur de température. Le programme comporter quelques erreurs, il faut donc que nous l'améliorons les séances a venir.
