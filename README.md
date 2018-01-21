@@ -1,7 +1,7 @@
 # CapteursBatiments
 ![Polytech](http://fr.academic.ru/pictures/frwiki/80/Polytechnicesophia.png "logo polytech")
 
-Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Polytech'Nice Sophia 
+Ce projet est réalisé dans le cadre de la formation de la prépa intégrée de Polytech'Nice Sophia 
 
 Nous allons réaliser différents capteurs pour le batiment comme des capteurs de température, d'humdité, de CO ou encore de présence. Ce projet est en lien avec le département Batiment de Polytech Nice-Sophia car actuellement ces capteurs coutent trop cher pour une université. Avec la technologie arduino, nous allons essayer de produire des capteurs efficace pour un moindre coût.
 
