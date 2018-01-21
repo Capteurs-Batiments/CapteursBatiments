@@ -23,3 +23,15 @@ On récupèrera les données transmises à partir des capteurs dans un serveur s
 Une personne travaillant sur un bâtiment et ayant placé des capteurs à l'intérieur ne sera donc pas obliger de se déplacer pour récolté ses informations.
 
 Nous avons également commencé à coder pour le capteur de température. Le programme comporter quelques erreurs, il faut donc que nous l'améliorons les séances a venir.
+
+* Séance du 19 Janvier 2018 _ SEANCE 3
+
+Nous avons réussit à faire marcher le capteur de température et d'humidité qui semble données les valeurs exact.
+
+Nous avons soudé la carte mini arduino et la puce de communication LoRa sur le PCB. Puis nous avons vérifier que le capteur de température et d'humidité (placé sur le PCB) marche bien avec la carte mini arduino. 
+
+Une fois que le capteur de température et d'humidité fonctionne correctement, on place le change par le capteur de CO, puis on commence le code. 
+
+La séance prochaine, on mettra en place la communication LoRa.
+
+![Capteur de CO](https://i.ebayimg.com/images/g/324AAOSw4UtWSTrE/s-l300.jpg "Capteur de CO")
