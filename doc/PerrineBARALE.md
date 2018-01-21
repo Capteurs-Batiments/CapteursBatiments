@@ -26,7 +26,7 @@ Nous avons également commencé à coder pour le capteur de température. Le pro
 
 * Séance du 19 Janvier 2018 _ SEANCE 3
 
-Nous avons réussit à faire marcher le capteur de température et d'humidité qui semble données les valeurs exact.
+Nous avons réussit à faire marcher le capteur de température et d'humidité qui semble donner les valeurs exact.
 
 Nous avons soudé la carte mini arduino et la puce de communication LoRa sur le PCB. Puis nous avons vérifier que le capteur de température et d'humidité (placé sur le PCB) marche bien avec la carte mini arduino. 
 
