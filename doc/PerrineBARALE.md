@@ -35,3 +35,11 @@ Une fois que le capteur de température et d'humidité fonctionne correctement, 
 La séance prochaine, on mettra en place la communication LoRa.
 
 ![Capteur de CO](https://i.ebayimg.com/images/g/324AAOSw4UtWSTrE/s-l300.jpg "Capteur de CO")
+
+* Séance du 23 janvier 2018 _ SEANCE 4
+
+Aujourd'hui, nous avons fait la première présentation orale du projet (le powerpoint se trouve dans le dossier doc). 
+Puis nous avons continuer les programmes tout en vérifiant que ce que nous avions déjà fait marche toujours. J'ai rencontrer un probleme car Arduino ne marche pas. Il faut que je trouve une solution mais malgré mes recherches je n'ai pas encore trouvé.
+
+Nous avons continuer le programme de CO et celui-ci semble marcher.
+Il faudrait vérifier en faisant brûler quelque chose mais nous ne pouvons pas le faire en cours. Il faut qu'on le fasse à l'exterieur. Nous avons déjà tester si on souffle dessus le tot baisse car le capteur est quand même sensible au CO2.
