@@ -42,4 +42,4 @@ Aujourd'hui, nous avons fait la première présentation orale du projet (le powe
 Puis nous avons continuer les programmes tout en vérifiant que ce que nous avions déjà fait marche toujours. J'ai rencontrer un probleme car Arduino ne marche pas. Il faut que je trouve une solution mais malgré mes recherches je n'ai pas encore trouvé.
 
 Nous avons continuer le programme de CO et celui-ci semble marcher.
-Il faudrait vérifier en faisant brûler quelque chose mais nous ne pouvons pas le faire en cours. Il faut qu'on le fasse à l'exterieur. Nous avons déjà tester si on souffle dessus le tot baisse car le capteur est quand même sensible au CO2.
+Il faudrait vérifier en faisant brûler quelque chose mais nous ne pouvons pas le faire en cours. Il faut qu'on le fasse à l'exterieur. Nous avons déjà testé si on souffle dessus le taux baisse car le capteur est quand même sensible au CO2.
