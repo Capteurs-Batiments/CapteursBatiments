@@ -25,3 +25,8 @@ On a écrit un programme permettant de faire fonctionner le capteur DHT 11 (temp
 
 Nous avons récupéré quelques composants : une carte Arduino mini, un PCB, le module de communication ainsi qu'un port USB série. Nous avons donc commencé par soudé l'Arduino sur le PCB, puis le module.
 On a ensuite commencé à écrire un programme permettant de faire fonctionner le capteur MQ-7, capteur de monoxyde de carbone (CO).
+
+* Séance du 23 Janvier 2018
+
+Aujourd'hui a eu lieu notre première présentation orale, nous avons donc expliqué nos motivations, nos objectifs, en quoi notre projet consiste et le matériel nécessaire (tout est renseigné dans le power point mis en ligne).
+J'ai réussi à faire fonctionner le circuit et le programme pour le capteur CO.
