@@ -26,7 +26,7 @@ Nous avons également commencé à coder pour le capteur de température. Le pro
 
 * Séance du 19 Janvier 2018 _ SEANCE 3
 
-Nous avons réussit à faire marcher le capteur de température et d'humidité qui semble donner des valeurs exactes.
+Nous avons réussi à faire marcher le capteur de température et d'humidité qui semble donner des valeurs exactes.
 
 Nous avons soudé la carte mini arduino et la puce de communication LoRa sur le PCB. Puis nous avons vérifier que le capteur de température et d'humidité (placé sur le PCB) marche bien avec la carte mini arduino. 
 
@@ -38,8 +38,8 @@ La séance prochaine, on mettra en place la communication LoRa.
 
 * Séance du 23 janvier 2018 _ SEANCE 4
 
-Aujourd'hui, nous avons fait la première présentation orale du projet (le powerpoint se trouve dans le dossier doc). 
-Puis nous avons continuer les programmes tout en vérifiant que ce que nous avions déjà fait marche toujours. J'ai rencontrer un probleme car Arduino ne marche pas. Il faut que je trouve une solution mais malgré mes recherches je n'ai pas encore trouvé.
+Aujourd'hui, nous avons fait la première présentation orale du projet (le PowerPoint se trouve dans le dossier doc). 
+Puis nous avons continuer les programmes tout en vérifiant que ce que nous avions déjà fait marche toujours. J'ai rencontrer un problème car Arduino ne marche pas. Il faut que je trouve une solution mais malgré mes recherches je n'ai pas encore trouvé.
 
-Nous avons continuer le programme de CO et celui-ci semble marcher.
-Il faudrait vérifier en faisant brûler quelque chose mais nous ne pouvons pas le faire en cours. Il faut qu'on le fasse à l'exterieur. Nous avons déjà testé si on souffle dessus le taux baisse car le capteur est quand même sensible au CO2.
+Nous avons continué le programme de CO et celui-ci semble marcher.
+Il faudrait vérifier en faisant brûler quelque chose mais nous ne pouvons pas le faire en cours. Il faut qu'on le fasse à l'extérieur. Nous avons déjà testé si on souffle dessus le taux baisse car le capteur est quand même sensible au CO2.
