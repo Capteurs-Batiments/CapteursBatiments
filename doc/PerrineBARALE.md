@@ -15,10 +15,10 @@ On a prévu de faire plusieurs capteurs pour pouvoir les placer à différents e
 
 
 Nous avons alors décidé qu’il nous fallait, pour notre projet :
-1.Mini cartes Arduino
-2.Convertisseur USB série (pour programmer les mini Arduino)
-3.PCB 
-4.Piles
+1. Mini cartes Arduino
+2. Convertisseur USB série (pour programmer les mini Arduino)
+3. PCB 
+4. Piles
 
 * Séance du 12 Janvier 2018 _ SEANCE 2
 
