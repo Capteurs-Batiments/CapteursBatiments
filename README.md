@@ -24,8 +24,8 @@ Pour la transmission d'informations des capteurs jusqu'à un serveur sur le  web
 - [X] Circuit du capteur DHT11 (température/humidité).
 - [X] Programme du capteur MQ-7 (CO).
 - [X] Circuit du capteur MQ-7 (CO).
-- [] Programme du capteur de présence.
-- [] Circuit du capteur de présence.
-- [] Communication LoRa.
-- [] Boitiers accrochable au mur.
+- [ ] Programme du capteur de présence.
+- [ ] Circuit du capteur de présence.
+- [ ] Communication LoRa.
+- [ ] Boitiers accrochable au mur.
 
