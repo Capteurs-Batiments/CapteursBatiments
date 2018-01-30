@@ -15,11 +15,11 @@ On a prévu de faire plusieurs capteurs pour pouvoir les placer à différents e
 
 
 Nous avons alors décidé qu’il nous fallait, pour notre projet :
--	Mini cartes Arduino
--	Convertisseur USB série (pour programmer les mini Arduino)
--	PCB 
--	Piles
-
+-Mini cartes Arduino
+-Convertisseur USB série (pour programmer les mini Arduino)
+-PCB 
+-Piles
+
 * Séance du 12 Janvier 2018 _ SEANCE 2
 
 Aujourd'hui, nous avons eu rendez-vous avec Monsieur Sauce, le directeur de la spécialité Bâtiments de Polytech Nice-Sophia. Suite à ce rendez-vous, nous avons décidé de faire des capteurs de Température et d'Humidité ainsi que des capteurs de CO et également de présence. 
