@@ -34,5 +34,5 @@ Pour la transmission d'informations des capteurs jusqu'à un serveur sur le web,
 - [ ] Programme du capteur de présence.
 - [ ] Circuit du capteur de présence.
 - [ ] Communication LoRa.
-- [ ] Boitiers accrochable au mur.
+- [ ] Boitiers accrochables au mur.
 
