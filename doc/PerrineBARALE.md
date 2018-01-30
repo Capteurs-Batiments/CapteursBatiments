@@ -15,10 +15,10 @@ On a prévu de faire plusieurs capteurs pour pouvoir les placer à différents e
 
 
 Nous avons alors décidé qu’il nous fallait, pour notre projet :
--Mini cartes Arduino
--Convertisseur USB série (pour programmer les mini Arduino)
--PCB 
--Piles
+1.Mini cartes Arduino
+2.Convertisseur USB série (pour programmer les mini Arduino)
+3.PCB 
+4.Piles
 
 * Séance du 12 Janvier 2018 _ SEANCE 2
 
@@ -28,7 +28,7 @@ Mr Sauce nous a également demandé qu’il soit possible de vérifier à distan
 Nous avons commencé par définir le type de transmission que nous allons utiliser. On a donc décidé d'utiliser le système de transmission d'information LoRa. Ce système permet de transféré des données à plus de 15km, ce qui est suffisant pour l'ordre de grandeur d'un bâtiment. Cependant les bâtiments sont construits en pierres ou avec des portes métalliques ou autres qui empêchent les ondes de circuler comme il faut. Il est alors possible de rajouter une gateway.
 
 Il nous faut donc rajouter à notre liste de matériel :
--	Capteurs de température/humidité DHT11
+- Capteurs de température/humidité DHT11
 -	Capteur de présence
 -	Capteur de CO MQ-7
 -	Une gateway
