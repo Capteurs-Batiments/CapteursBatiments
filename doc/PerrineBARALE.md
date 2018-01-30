@@ -7,6 +7,8 @@ J'ai formé mon groupe avec Angélique Moglia.
 On a décider de faire un projet autour du bâtiment. Nous allons faire des capteurs (CO, humidité, température, présence) en collaboration avec le département bâtiment de Polytech Nice-Sophia. Le but, à terme est de faire une mallette remplie de capteurs sans fil pour les bâtiments.
 Aujourd’hui, une mallette de ce type coûte approximativement 20.000€, ce qui est trop cher pour une université, nous allons donc essayer de réduire les coûts grâce à la technologie Arduino.
 
+![Arduino logo](https://www.arduino.cc/arduino_logo.png)
+
 Durant cette séance, nous avons envoyé un mail au directeur du département bâtiment pour savoir quels capteurs utiliser. Pour savoir plus exactement ce qui est demandé dans ce projet.
 
 On a prévu de faire plusieurs capteurs pour pouvoir les placer à différents endroits dans plusieurs pièces. Les capteurs étant munis d'une carte Arduino et de capteurs. Cette carte transmettra les données à un boitier qui transmettra les données à un ordinateur. Les données seront rassemblées dans un graphe pour voir l'évolution au cours du temps (Sur plusieurs semaines ou un mois).
