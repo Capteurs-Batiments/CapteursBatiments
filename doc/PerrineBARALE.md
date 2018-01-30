@@ -1,6 +1,6 @@
 # Cahier de suivi du projet de Perrine Barale
 
-## Séance du 20 Décembre 2017 _ SEANCE 1
+### Séance du 20 Décembre 2017 _ SEANCE 1
 
 J'ai formé mon groupe avec Angélique Moglia. 
 
