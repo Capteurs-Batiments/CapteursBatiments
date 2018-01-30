@@ -1,4 +1,4 @@
-//Code pour le capteur de température et d'humidité
+/*Code pour le capteur de température et d'humidité*/
 
 #include "DHT.h"
 #define DHTPIN A5
