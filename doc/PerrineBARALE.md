@@ -1,6 +1,6 @@
-Cahier de suivi du projet de Perrine Barale
+# Cahier de suivi du projet de Perrine Barale
 
-* Séance du 20 Décembre 2017 _ SEANCE 1
+## Séance du 20 Décembre 2017 _ SEANCE 1
 
 J'ai formé mon groupe avec Angélique Moglia. 
 
@@ -15,12 +15,12 @@ On a prévu de faire plusieurs capteurs pour pouvoir les placer à différents e
 
 
 Nous avons alors décidé qu’il nous fallait, pour notre projet :
-1. Mini cartes Arduino
-2. Convertisseur USB série (pour programmer les mini Arduino)
-3. PCB 
-4. Piles
+- Mini cartes Arduino
+- Convertisseur USB série (pour programmer les mini Arduino)
+- PCB 
+- Piles
 
-* Séance du 12 Janvier 2018 _ SEANCE 2
+## Séance du 12 Janvier 2018 _ SEANCE 2
 
 Aujourd'hui, nous avons eu rendez-vous avec Monsieur Sauce, le directeur de la spécialité Bâtiments de Polytech Nice-Sophia. Suite à ce rendez-vous, nous avons décidé de faire des capteurs de Température et d'Humidité ainsi que des capteurs de CO et également de présence. 
 Mr Sauce nous a également demandé qu’il soit possible de vérifier à distance que les capteurs fonctionnent toujours. Que si le capteur s’arrête de fonctionner alors nous recevront un message d’erreur. De plus il faudrait pouvoir avoir accès aux informations sans être obligé de se déplacer. Les capteurs doivent être mobiles, on doit pouvoir les accrocher aux murs.
@@ -47,8 +47,8 @@ Nous avons donc commencé par le capteur de température/humidité. Pour cela no
 
 
 Nous avons codé pour le capteur de température/humidité. Le programme comportait quelques erreurs, il faut donc que nous l'améliorons les séances à venir.
-
-* Séance du 19 Janvier 2018 _ SEANCE 3
+
+## Séance du 19 Janvier 2018 _ SEANCE 3
 
 Nous avons réussi à faire marcher le capteur de température et d'humidité qui semble donner des valeurs exactes. Lorsque l’on place le capteur dans la salle la température est de 23°C puis si on le déplace à la fenêtre la température baisse à 19°C.
 
@@ -61,8 +61,8 @@ Pour ce capteur, on va utiliser un capteur MQ-7. « Le MQ-7 peut détecter des 
 
 
 La séance prochaine, nous mettrons en place la communication LoRa si nous avons reçu la gateway.
-
-* Séance du 23 janvier 2018 _ SEANCE 4
+
+## Séance du 23 janvier 2018 _ SEANCE 4
 
 Aujourd'hui, nous avons fait la première présentation orale du projet (le PowerPoint se trouve dans le dossier doc). 
 
