@@ -9,7 +9,7 @@ Durant cette séance, nous avons envoyé un mail au directeur de département b�
 
 On a prévu de faire plusieurs capteurs pour pouvoir les placer à différents endroits dans plusieurs pièces. Les capteurs étant munis d'une carte arduino et de capteurs. Cette carte transmettra les données à un boitier qui transmettra les données à un ordinateur. Les données seront rassemblées dans un graphe pour voir l'évolution au cours du temps (Sur plusieurs semaines ou un mois).
 
-![Malette](file:///Users/Perrine/Desktop/Capture%20d’écran%202018-01-30%20à%2013.58.22.png)
+![Malette](https://i2.cdscdn.com/pdt2/9/2/2/1/300x300/auc5411257035922/rw/valise-alu-425-x-305-x-125mm.jpg)
 
 * Séance du 12 Janvier 2018 _ SEANCE 2
 
