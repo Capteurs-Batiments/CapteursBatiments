@@ -72,4 +72,4 @@ Puis nous avons continuer le programme du capteur MQ-7 tout en vérifiant que ce
 
 J'ai rencontrer un problème car Arduino ne marchait pas sur mon ordinateur. Il faut que je trouve une solution mais malgré mes recherches je n'ai pas encore trouvé.
 
-Nous avons testé le programme de CO écrit la semaine dernière et celui-ci semble marcher. Pour valider notre programme et nos branchements, il faudrait vérifier en faisant brûler quelque chose mais nous ne pouvons pas le faire en cours. Il faut qu'on le fasse à l'extérieur. Nous avons déjà testé si on souffle dessus le taux baisse car le capteur est également sensible au CO2.
+Nous avons testé le programme de CO écrit la semaine dernière et celui-ci ne semble pas marcher car il nous renvoit des valeurs tel que 600ppm. Pour valider notre programme et nos branchements, il faudrait également vérifier en faisant brûler quelque chose mais nous ne pouvons pas le faire en cours.Nous avons déjà testé si on souffle dessus le taux baisse car le capteur est également sensible au CO2.
