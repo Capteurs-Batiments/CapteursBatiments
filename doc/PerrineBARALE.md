@@ -66,7 +66,7 @@ La séance prochaine, nous mettrons en place la communication LoRa si nous avons
 
 ## Séance du 23 janvier 2018 _ SEANCE 4
 
-Aujourd'hui, nous avons fait la première présentation orale du projet (cf [Présentation.1](https://github.com/Capteurs-Batiments/CapteursBatiments/blob/master/doc/Capteurs%20Bâtiments.pdfc)). 
+Aujourd'hui, nous avons fait la première présentation orale du projet (cf [Présentation.1](https://github.com/Capteurs-Batiments/CapteursBatiments/blob/master/doc/Capteurs%20Bâtiments.pdf)). 
 
 Puis nous avons continuer le programme du capteur MQ-7 tout en vérifiant que ce que nous avions déjà fait marche toujours (capteur DHT11).
 Nous n'avons pas pu mettre en place la communication LoRa car nous n'avions pas encore reçu la gateway.
