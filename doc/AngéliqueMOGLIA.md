@@ -29,4 +29,9 @@ On a ensuite commencé à écrire un programme permettant de faire fonctionner l
 * Séance du 23 Janvier 2018
 
 Aujourd'hui a eu lieu notre première présentation orale, nous avons donc expliqué nos motivations, nos objectifs, en quoi notre projet consiste et le matériel nécessaire (tout est renseigné dans le power point mis en ligne).
-J'ai réussi à faire fonctionner le circuit et le programme pour le capteur CO.
+Nous avons réalisé le circuit reliant le capteur MQ-7 à la carte Arduino. 
+Malheureusement le programme écrit ne fonctionne pas, les données affichées sur le moniteur série sont aberrantes, vers les 600, or le taux habituel de CO dans l’air ambiant est d’environ 0,2 ppm (part par million). 
+Je pense donc que nous n'avons pas bien compris le fonctionnement du capteur ; il va falloir faire des recherches plus poussées pour comprendre, et pouvoir écrire un programme adéquate.
+
+
+
