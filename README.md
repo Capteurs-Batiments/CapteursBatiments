@@ -3,7 +3,7 @@
 ![Polytech logo](http://fr.academic.ru/pictures/frwiki/80/Polytechnicesophia.png "logo polytech")
 
 
-Ce projet est réalisé dans le cadre de la formation de la prépa intégrée de Polytech'Nice Sophia 
+Ce projet est réalisé dans le cadre de la formation de la prépa intégrée de Polytech'Nice Sophia. 
 Ce projet est rendu possible grâce a Mr Masson ([siteweb]( http://users.polytech.unice.fr/~pmasson/Enseignement.htm)) et Mr Ferrero ([siteweb]( http://users.polytech.unice.fr/~ferrero/enseignement.html)), nos enseignants en électronique Peip2. 
 
 
