@@ -83,3 +83,12 @@ J'ai rencontrer un problème car Arduino ne marchait pas sur mon ordinateur. Il 
 Nous avons testé le programme de CO écrit la semaine dernière et celui-ci ne semble pas marcher car il nous renvoi des valeurs tel que 500ppm. 
 
 Quand nous auront trouvé un programme qui marche, pour valider notre programme et nos branchements, il faudrait penser à vérifier en faisant brûler quelque chose mais nous ne pouvons pas le faire en cours.
+
+## Séance du 06 février 2018 _ SEANCE 5
+
+Aujourd’hui, nous avons un programme pour le capteur CO (MQ-7) qui semble marcher, qui nous donne des valeurs tel que 0,04ppm qui semble se rapprocher des valeurs « normales ». Cependant, vers la fin de la séance, nous avions 0,00ppm donc il faudrait s’assurer que ce sont bien les bonnes valeurs. Il faudra vérifier en faisant brûler quelque chose pour voir si la fumée a un impact sur ce capteur.
+
+De plus, nous avons commencé à écrire le programme du capteur de présence (PIR sensor) et fait le circuit de ce capteur.
+
+![CapteurPIRsensor](https://cdn-learn.adafruit.com/assets/assets/000/000/543/medium800/proximity_pirardbb.gif?1447976079 )
+
