@@ -73,6 +73,9 @@ La séance prochaine, nous mettrons en place la communication LoRa si nous avons
 Aujourd'hui, nous avons fait la première présentation orale du projet (cf [Présentation.1](https://github.com/Capteurs-Batiments/CapteursBatiments/blob/master/doc/Capteurs%20Bâtiments.pdf)). 
 
 Puis nous avons continuer le programme du capteur MQ-7 tout en vérifiant que ce que nous avions déjà fait marche toujours (capteur DHT11).
+
+![CircuitCapteurMQ7](http://osoyoo.com/wp-content/uploads/2016/06/MQ-7_bb.jpg)
+
 Nous n'avons pas pu mettre en place la communication LoRa car nous n'avions pas encore reçu la gateway.
 
 J'ai rencontrer un problème car Arduino ne marchait pas sur mon ordinateur. Il faut que je trouve une solution mais malgré mes recherches je n'ai pas encore trouvé.
