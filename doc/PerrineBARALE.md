@@ -49,6 +49,10 @@ Nous avons donc commencé par le capteur de température/humidité. Pour cela no
 
 
 Nous avons codé pour le capteur de température/humidité. Le programme comportait quelques erreurs, il faut donc que nous l'améliorons les séances à venir.
+Nous avons également fait le circuit pour ce capteur.
+
+![CircuitCapteurDHT11](http://cdn.shopify.com/s/files/1/1689/3027/files/schematic-dht11t-1024x560.png?v=1483733943 )
+
 
 ## Séance du 19 Janvier 2018 _ SEANCE 3
 
