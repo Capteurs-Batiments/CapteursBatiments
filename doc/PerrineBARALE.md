@@ -92,3 +92,4 @@ De plus, nous avons commencé à écrire le programme du capteur de présence (P
 
 ![CapteurPIRsensor](https://cdn-learn.adafruit.com/assets/assets/000/000/543/medium800/proximity_pirardbb.gif?1447976079 )
 
+Nous avons également appris que Mr Ferrero avait reçu la gateway et attendait de voir avec le département informatique pour l’installer dans le bâtiment. Nous pourrons des lors connecter la mini Arduino par la communication LoRa.
