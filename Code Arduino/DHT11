@@ -1,39 +1,39 @@
 /*Code pour le capteur de température et d'humidité, capteur DHT11 */
 
-#include "DHT.h"
-#define DHTPIN A5
-#define DHTTYPE DHT11
-DHT dht(DHTPIN, DHTTYPE); //déclaration du capteur
-float h = 0;
-float t = 0;
+#include "DHT.h" 
+#define DHTPIN A5 
+#define DHTTYPE DHT11 
+DHT dht(DHTPIN, DHTTYPE); //déclaration du capteur 
+float h = 0; 
+float t = 0; 
 
-void setup() {
-  Serial.begin(9600);
-  Serial.println("DHTxx test!");
-  dht.begin();
-}
+void setup() { 
+  Serial.begin(9600); 
+  Serial.println("DHTxx test!"); 
+  dht.begin(); 
+} 
 
-void loop() {
-  delay(2000);
+void loop() { 
+  delay(2000); 
   
-  //La lecture du capteur prend 250 ms
-  //Les valeur lues peuvent être vieilles de jusqu'à 2 secondes
-  h = dht.readHumidity();
-  t = dht.readTemperature();//on lit la température en celsius
+  //La lecture du capteur prend 250 ms 
+  //Les valeur lues peuvent être vieilles de jusqu'à 2 secondes 
+  h = dht.readHumidity(); 
+  t = dht.readTemperature();//on lit la température en celsius 
 
-  //On vérifie si la lecture a échoué, si oui on quitte la boucle pour recommencer.
-  if (isnan(h) || isnan(t)) {
-    Serial.println("Failed to read from DHT sensor!");
-    return;
-  }
+  //On vérifie si la lecture a échoué, si oui on quitte la boucle pour recommencer. 
+  if (isnan(h) || isnan(t)) { 
+    Serial.println("Failed to read from DHT sensor!"); 
+    return; 
+  } 
   
-  float hic = dht.computeHeatIndex(t,h, false);
+  float hic = dht.computeHeatIndex(t,h, false); 
 
-  //Affichages :
-  Serial.print("Humidité: ");
-  Serial.print(h);
-  Serial.println(" %\t");
-  Serial.print("Température: ");
+  //Affichages : 
+  Serial.print("Humidité: "); 
+  Serial.print(h); 
+  Serial.println(" %\t"); 
+  Serial.print("Température: "); 
   Serial.print(t);
   Serial.println(" °C");
   Serial.print("Indice de température: ");
