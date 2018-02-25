@@ -93,3 +93,10 @@ De plus, nous avons commencé à écrire le programme du capteur de présence (P
 ![CapteurPIRsensor](https://cdn-learn.adafruit.com/assets/assets/000/000/543/medium800/proximity_pirardbb.gif?1447976079 )
 
 Nous avons également appris que Mr Ferrero avait reçu la gateway et attendait de voir avec le département informatique pour l’installer dans le bâtiment. Nous pourrons des lors connecter la mini Arduino par la communication LoRa.
+
+## Séance du 22 février 2018 _ SEANCE 6
+
+Aujourd’hui, nous avons mis en place la communication Lora. Nous nous sommes tout d’abord inscrit sur The Things Network pour enregistrer notre Arduino sur la gateway. Nous nous sommes également inscrit sur MyDevice Cayenne, nous pourrons relever sur cette application les différentes données et nous pourrons les analyser grâce a différents graphes. 
+
+![MyDevice]( http://claranova.fr/assets/images//pages/businesses/SellSheet-BackImage.png)
+
