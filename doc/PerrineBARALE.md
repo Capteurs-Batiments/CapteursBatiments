@@ -108,4 +108,4 @@ Nous pouvons donc dire que le capteur DHT11 est opérationnel. Nous nous demando
 
 Pour le capteur CO, il faut que nous réessayons le programme car celui-ci nous envoyé des valeurs aberrantes. En ayant fait des recherches, j’ai pu le modifier et il faudrait le tester pour vérifier si les valeurs sont exactes.
 
-![NotreDevice]( file:///Users/perrinebarale/Desktop/Capture%20d’écran%202018-03-15%20à%2020.19.42.png)
+![NotreDevice]( //Users/perrinebarale/Desktop/Capture%20d’écran%202018-03-15%20à%2020.19.42.png)
