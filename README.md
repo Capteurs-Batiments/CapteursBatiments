@@ -35,7 +35,7 @@ Pour la transmission d'informations des capteurs jusqu'à un serveur sur le web,
 - [X] Circuit du capteur MQ-7_CO (cf [Circuits]( https://github.com/Capteurs-Batiments/CapteursBatiments/blob/master/doc/Montage.md)).
 - [ ] Programme du capteur de présence_PIRsensor.
 - [X] Circuit du capteur de présence_PIRsensor (cf [Circuits]( https://github.com/Capteurs-Batiments/CapteursBatiments/blob/master/doc/Montage.md)).
-- [ ] Communication LoRa.
+- [X] Communication LoRa.
 - [ ] Boitiers accrochables au mur.
 
 
