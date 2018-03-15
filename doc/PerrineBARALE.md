@@ -100,3 +100,12 @@ Aujourd’hui, nous avons mis en place la communication Lora. Nous nous sommes t
 
 ![MyDevice]( http://claranova.fr/assets/images//pages/businesses/SellSheet-BackImage.png)
 
+## Séance du 15 mars 2018 _ SEANCE 7
+
+Aujourd’hui, nous avons continuer à mettre en place la communication Lora. Nous avons donc adapté les programmes que nous avions, notamment celui pour le DHT11 pour que les informations de notre capteur (la température et l’humidité) soit transmis à The Things Network et transmis sur MyDevice Cayenne pour pouvoir être exploité. (Le site The Things Network ne permet pas de stocker les informations, pour les exploités on doit donc les envoyés sur le site MyDevice Cayenne). 
+
+Nous pouvons donc dire que le capteur DHT11 est opérationnel. Nous nous demandons cependant s’il ne faudrait pas changer pour un DHT22 pour améliorer la précision des mesures. 
+
+Pour le capteur CO, il faut que nous réessayons le programme car celui-ci nous envoyé des valeurs aberrantes. En ayant fait des recherches, j’ai pu le modifier et il faudrait le tester pour vérifier si les valeurs sont exactes.
+
+![NotreDevice]( file:///Users/perrinebarale/Desktop/Capture%20d’écran%202018-03-15%20à%2020.19.42.png)
