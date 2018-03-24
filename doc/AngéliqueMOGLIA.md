@@ -44,7 +44,7 @@ On a ensuite commencé à écrire un programme permettant de faire fonctionner l
 
 ## Séance du 23 Janvier 2018
 
-Aujourd'hui a eu lieu notre première présentation orale, nous avons donc expliqué nos motivations, nos objectifs, en quoi notre projet consiste et le matériel nécessaire (tout est renseigné dans le [power point](https://github.com/Capteurs-Batiments/CapteursBatiments/blob/master/doc/Capteurs%20B%C3%A2timents.pdf) mis en ligne .
+Aujourd'hui a eu lieu notre première présentation orale, nous avons donc expliqué nos motivations, nos objectifs, en quoi notre projet consiste et le matériel nécessaire (tout est renseigné dans le [power point](https://github.com/Capteurs-Batiments/CapteursBatiments/blob/master/doc/Capteurs%20B%C3%A2timents.pdf) mis en ligne).
 
 Nous avons réalisé le circuit reliant le capteur MQ-7 à la carte Arduino. 
 
