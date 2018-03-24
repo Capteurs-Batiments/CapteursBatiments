@@ -58,9 +58,28 @@ Il faudra voir à la séance suivante si cela provient d'un manque de précision
 
 Nous avons commencé à utiliser la gateway avec Monsieur Ferrero, et donc mis en place la communication LoRa.
 
-On a créé un compte sur [The Things Network](https://www.thethingsnetwork.org/), pour se connecter à la gateway, mais ce site ne stockant pas les données, nous nous sommes également inscrit sur MyDevices Cayenne, où les données récoltées seront envoyées.  
+On a créé un compte sur [The Things Network](https://www.thethingsnetwork.org/), pour se connecter à la gateway, mais ce site ne stockant pas les données, nous nous sommes également inscrit sur [MyDevices Cayenne](https://mydevices.com/), où les données récoltées seront envoyées.  
 
 Malheureusement le programme écrit il y a quelques semaines pour faire fonctionner le capteur DHT11 n'est plus suffisant, car il ne permet pas d'établir la communication entre l'Arduino et la gateway, il va donc falloir le réécrire.
 
+
+## Séance du 15 mars 2018
+
+Nous avons trouvé un nouveau programme pour que le DHT11 puisse communiquer avec la gateway, et donc envoyer les données sur [MyDevices](https://mydevices.com/) comme voulu, et nous l'avons téléversé sur la carte Arduino.  
+Nous avons également relié la carte à une pile, pour que celle-ci n'ait plus à être branchée en permanence sur un ordinateur. Notre capteur (ensemble PCB, carte Arduino, module LoRa, DHT11) est maintenant autonome et opérationnel.
+
+Désormais nous pouvons consulter, à n'importe quel moment, les données relévées par le capteur sur notre compte Cayenne.  
+Ce dernier nous permet de visualiser les relevés de différentes façons, on peut voir les variations :
+* en live
+* sur dix minutes
+* sur une heure
+* sur une journée
+* sur une semaine
+* sur un mois
+* sur trois mois
+* ou même sur une année
+
+Il existe également une application mobile Cayenne, qui possède les mêmes fonctionnalités.  
+Nous sommes donc capables de vérifier que le capteur fonctionne sans l'avoir près de nous.
 
 
