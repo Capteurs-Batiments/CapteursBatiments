@@ -28,6 +28,7 @@ Nous avons récupéré quelques composants :
 * un PCB
 * le module de communication
 * un port USB série.  
+
 Nous avons donc commencé par soudé l'Arduino sur le PCB, puis le module.  
 On a ensuite commencé à écrire un programme permettant de faire fonctionner le capteur MQ-7, capteur de monoxyde de carbone (CO).
 
