@@ -1,14 +1,16 @@
 # Cahier de suivi du projet de Angélique Moglia
 
+
 ## Séance du 20 Décembre 2017 
 
-J'ai formé mon groupe avec Perrine Barale. 
+J'ai formé mon groupe avec Perrine Barale.  
 On a choisi un projet autour de capteurs intelligents pour bâtiments, capables de transmettre des données comme le taux d'humidité ou le taux de CO relevés dans une pièce.
 
 Nous avons listé les élements les plus importants pour réaliser le projet (les cartes Arduino, les capteurs, les piles pour les boîtiers, les modules pour communiquer).
 
-Il faut maintenant décider quels capteurs nous allons mettre dans nos boîtiers, pour cela nous avons envoyé un mail au directeur du département Bâtiments ; on souhaite en discuter avec lui, pour savoir quels capteurs il aimerait qu'on utilise.
+Il faut maintenant décider quels capteurs nous allons mettre dans nos boîtiers, pour cela nous avons envoyé un mail au directeur du département Bâtiments ; on souhaite en discuter avec lui, pour savoir quels capteurs il aimerait qu'on utilise.  
 Il faut également décider quel type d'ondes nous allons utiliser pour faire communiquer les mini-boîtiers avec le serveur.
+
 
 
 ## Séance du 12 Janvier 2018
@@ -21,6 +23,8 @@ Nous avons décidé d'utiliser les ondes LoRa pour communiquer, ces ondes ont un
 
 On a écrit un programme permettant de faire fonctionner le capteur DHT 11 (température et humidité).
 
+
+
 ## Séance du 19 Janvier 2018
 
 Nous avons récupéré quelques composants : 
@@ -32,6 +36,8 @@ Nous avons récupéré quelques composants :
 Nous avons donc commencé par soudé l'Arduino sur le PCB, puis le module.  
 On a ensuite commencé à écrire un programme permettant de faire fonctionner le capteur MQ-7, capteur de monoxyde de carbone (CO).
 
+
+
 ## Séance du 23 Janvier 2018
 
 Aujourd'hui a eu lieu notre première présentation orale, nous avons donc expliqué nos motivations, nos objectifs, en quoi notre projet consiste et le matériel nécessaire (tout est renseigné dans le power point mis en ligne).
@@ -40,6 +46,7 @@ Nous avons réalisé le circuit reliant le capteur MQ-7 à la carte Arduino.
 
 Malheureusement le programme écrit ne fonctionne pas, les données affichées sur le moniteur série sont aberrantes, vers les 600, or le taux habituel de CO dans l’air ambiant est d’environ 0,2 ppm (part par million).   
 Je pense donc que nous n'avons pas bien compris le fonctionnement du capteur ; il va falloir faire des recherches plus poussées pour comprendre, et pouvoir écrire un programme adéquate.
+
 
 
 ## Séance du 6 février 2018
@@ -55,6 +62,7 @@ Malheureusement cet essai a été infructueux, la main est parfois détectée, p
 Il faudra voir à la séance suivante si cela provient d'un manque de précision du capteur PIR ou si celui est du à une erreur dans le programme.
 
 
+
 ## Séance du 22 février 2018
 
 Nous avons commencé à utiliser la gateway avec Monsieur Ferrero, et donc mis en place la communication LoRa.
@@ -62,6 +70,7 @@ Nous avons commencé à utiliser la gateway avec Monsieur Ferrero, et donc mis e
 On a créé un compte sur [The Things Network](https://www.thethingsnetwork.org/), pour se connecter à la gateway, mais ce site ne stockant pas les données, nous nous sommes également inscrit sur [MyDevices Cayenne](https://mydevices.com/), où les données récoltées seront envoyées.  
 
 Malheureusement le programme écrit il y a quelques semaines pour faire fonctionner le capteur DHT11 n'est plus suffisant, car il ne permet pas d'établir la communication entre l'Arduino et la gateway, il va donc falloir le réécrire.
+
 
 
 ## Séance du 15 mars 2018
