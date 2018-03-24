@@ -39,6 +39,10 @@ Je pense donc que nous n'avons pas bien compris le fonctionnement du capteur ; i
 * Séance du 6 février 2018
 
 Nous avons réalisé le circuit du capteur de présence PIR, et téléversé le programme que j'ai écrit pour l'utiliser. 
+
+![Capteur PIR](http://robotic-controls.com/sites/default/files/learn/PIRSensor_bb.png)
+
+
 Nous avons alors testé le capteur à infrarouge en passant par exemple une main devant pour savoir si celle-ci était détectée ou non. 
 Malheureusement cet essai a été infructueux, la main est parfois détectée, parfois non. 
 Il faudra voir à la séance suivante si cela provient d'un manque de précision du capteur PIR ou si celui est du à une erreur dans le programme.
