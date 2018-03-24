@@ -29,9 +29,19 @@ On a ensuite commencé à écrire un programme permettant de faire fonctionner l
 * Séance du 23 Janvier 2018
 
 Aujourd'hui a eu lieu notre première présentation orale, nous avons donc expliqué nos motivations, nos objectifs, en quoi notre projet consiste et le matériel nécessaire (tout est renseigné dans le power point mis en ligne).
+
 Nous avons réalisé le circuit reliant le capteur MQ-7 à la carte Arduino. 
+
 Malheureusement le programme écrit ne fonctionne pas, les données affichées sur le moniteur série sont aberrantes, vers les 600, or le taux habituel de CO dans l’air ambiant est d’environ 0,2 ppm (part par million). 
 Je pense donc que nous n'avons pas bien compris le fonctionnement du capteur ; il va falloir faire des recherches plus poussées pour comprendre, et pouvoir écrire un programme adéquate.
+
+
+* Séance du 6 février 2018
+
+Nous avons réalisé le circuit du capteur de présence PIR, et téléversé le programme que j'ai écrit pour l'utiliser. 
+Nous avons alors testé le capteur à infrarouge en passant par exemple une main devant pour savoir si celle-ci était détectée ou non. 
+Malheureusement cet essai a été infructueux, la main est parfois détectée, parfois non. 
+Il faudra voir à la séance suivante si cela provient d'un manque de précision du capteur PIR ou si celui est du à une erreur dans le programme.
 
 
 
