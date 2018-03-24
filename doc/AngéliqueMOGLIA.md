@@ -19,7 +19,11 @@ Nous sommes allées voir le directeur du département Bâtiments Intelligents de
 Il nous a donc parlé des contraintes à gérer, par exemple il faudrait être capable de vérifier à distance si un capteur fonctionne toujours, et non devoir se déplacer en personne.  
 Les boîtiers doivent également être mobiles (accrocables au mur ou déplaçables), c'est la principale caractéristique démandée.
 
-Nous avons décidé d'utiliser les ondes LoRa pour communiquer, ces ondes ont une portée assez forte pour couvrir tout un bâtiment. De plus nous avons sélectionné les différents capteurs à utiliser : capteurs d'humidité, de monoxyde de carbone, de température, et de présence.
+Nous avons décidé d'utiliser les ondes LoRa pour communiquer, ces ondes ont une portée assez forte pour couvrir tout un bâtiment.
+
+![LoRa](http://www.hubel.pt/uploads/media/78a3b6d303ffcef735622da14838aa6c.jpg)
+
+De plus nous avons sélectionné les différents capteurs à utiliser : capteurs d'humidité, de monoxyde de carbone, de température, et de présence.
 
 On a écrit un programme permettant de faire fonctionner le capteur DHT 11 (température et humidité).
 
@@ -79,7 +83,7 @@ Nous avons trouvé un nouveau programme pour que le DHT11 puisse communiquer ave
 Nous avons également relié la carte à une pile, pour que celle-ci n'ait plus à être branchée en permanence sur un ordinateur. Notre capteur (ensemble PCB, carte Arduino, module LoRa, DHT11) est maintenant autonome et opérationnel.
 
 Désormais nous pouvons consulter, à n'importe quel moment, les données relévées par le capteur sur notre compte Cayenne.  
-Ce dernier nous permet de visualiser les relevés de différentes façons, on peut voir les variations :
+Ce dernier nous permet de visualiser les relevés de différentes façons, on peut voir les variations sur des graphes :
 * en live
 * sur dix minutes
 * sur une heure
@@ -93,6 +97,6 @@ Il existe également une application mobile Cayenne, qui possède les mêmes fon
 
 ![Apllication mobile Cayenne](https://i.pinimg.com/originals/78/59/74/78597482b2ecec8d816879c62e4f730e.jpg)
 
-Nous sommes donc capables de vérifier que le capteur fonctionne sans l'avoir près de nous.
+Nous sommes donc capables de vérifier que le capteur fonctionne sans l'avoir obligatoirement près de nous.
 
 
