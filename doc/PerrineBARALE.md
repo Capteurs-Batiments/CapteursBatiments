@@ -110,3 +110,7 @@ Nous pouvons donc dire que le capteur DHT11 est opérationnel. Nous nous demando
 Pour le capteur CO, il faut que nous réessayons le programme car celui-ci nous envoyé des valeurs aberrantes. En ayant fait des recherches, j’ai pu le modifier et il faudrait le tester pour vérifier si les valeurs sont exactes.
 
 
+## 25 mars 2018
+
+Cela fait 10 jours que nous avons laisser le capteur dans une salle de cours. Les données sont encore transmises à l’application MyDevice Cayenne et des graphes de température et d’humidité commencent à prendre forme. Le capteur DHT11 fonctionne comme il faut et nous pouvons nous concentrer sur les deux autres capteurs qui nous demandent plus de recherches.
+
