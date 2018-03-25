@@ -96,7 +96,8 @@ Nous avons également appris que Mr Ferrero avait reçu la gateway et attendait 
 
 ## Séance du 22 février 2018 _ SEANCE 6
 
-Aujourd’hui, nous avons mis en place la communication Lora. Nous nous sommes tout d’abord inscrit sur The Things Network pour enregistrer notre Arduino sur la gateway. Nous nous sommes également inscrit sur MyDevice Cayenne, nous pourrons relever sur cette application les différentes données et nous pourrons les analyser grâce a différents graphes. 
+Aujourd’hui, nous avons mis en place la communication Lora. Nous nous sommes tout d’abord inscrit sur ([The Things Network]( https://www.thethingsnetwork.org)) pour enregistrer notre Arduino sur la gateway. Nous nous sommes également inscrit sur ([MyDevice Cayenne]( https://mydevices.com)), nous pourrons relever sur cette application les différentes données et nous pourrons les analyser grâce a différents graphes. 
+
 
 ![MyDevice]( http://claranova.fr/assets/images//pages/businesses/SellSheet-BackImage.png)
 
