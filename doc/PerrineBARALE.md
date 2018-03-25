@@ -88,7 +88,7 @@ Quand nous auront trouvé un programme qui marche, pour valider notre programme 
 
 Aujourd’hui, nous avons un programme pour le capteur CO (MQ-7) qui semble marcher, qui nous donne des valeurs tel que 0,04ppm qui semble se rapprocher des valeurs « normales ». Cependant, vers la fin de la séance, nous avions 0,00ppm donc il faudrait s’assurer que ce sont bien les bonnes valeurs. Il faudra vérifier en faisant brûler quelque chose pour voir si la fumée a un impact sur ce capteur.
 
-De plus, nous avons commencé à écrire le programme du capteur de présence (PIR sensor) et fait le circuit de ce capteur.
+De plus, nous avons commencé à écrire le programme du capteur de présence (PIR sensor) et fait le circuit de ce capteur. Cependant les tests que nous avons effectués avec ce capteur ne semblaient pas bon. En effet le capteur réagissait si nous bougions la main à environ 3m de lui ; ce qui correspondait à ce que nous avions programmé mais lorsque nous avons mis le capteur dans le couloir (sans passage) celui-ci renvoyait des moments ou il détectait du mouvement. Pourtant le programme ne semble pas comporter d'erreur. 
 
 ![CapteurPIRsensor](https://cdn-learn.adafruit.com/assets/assets/000/000/543/medium800/proximity_pirardbb.gif?1447976079 )
 
