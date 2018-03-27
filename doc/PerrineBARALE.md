@@ -115,3 +115,7 @@ Pour le capteur CO, il faut que nous réessayons le programme car celui-ci nous 
 
 Cela fait 10 jours que nous avons laisser le capteur dans une salle de cours. Les données sont encore transmises à l’application [MyDevice Cayenne]( https://mydevices.com) et des graphes de température et d’humidité commencent à prendre forme. Le capteur DHT11 fonctionne comme il faut et nous pouvons nous concentrer sur les deux autres capteurs qui nous demandent plus de recherches.
 
+## Séance du 27 mars 2018 _ SEANCE 8
+
+NOus avons testé la programme du CO que nous avions fait il y a quelques séances. Les données étant de l'ordre du ppm son t en accord avec les normes. [Taux ppm](https://www.centreantipoisons.be/monoxyde-de-carbone/le-monoxyde-de-carbone-co-en-d-tail/quelles-sont-les-concentrations-toxiques-de). On peut donc dire que notre capteur est fonctionnel. 
+Il faut maintenant que l'on rajoute ce programme au programme qui gère la modulation LoRa pour que les données soient directement envoyée sur [MyDevice Cayenne]( https://mydevices.com) pour pouvoir être exploité.
