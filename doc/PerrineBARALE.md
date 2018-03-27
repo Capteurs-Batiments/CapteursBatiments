@@ -117,5 +117,5 @@ Cela fait 10 jours que nous avons laisser le capteur dans une salle de cours. Le
 
 ## Séance du 27 mars 2018 _ SEANCE 8
 
-NOus avons testé la programme du CO que nous avions fait il y a quelques séances. Les données étant de l'ordre du ppm son t en accord avec les normes. [Taux ppm](https://www.centreantipoisons.be/monoxyde-de-carbone/le-monoxyde-de-carbone-co-en-d-tail/quelles-sont-les-concentrations-toxiques-de). On peut donc dire que notre capteur est fonctionnel. 
+NOus avons testé la programme du CO que nous avions fait il y a quelques séances. Les données étant de l'ordre du ppm son t en accord avec les normes ([Taux ppm](https://www.centreantipoisons.be/monoxyde-de-carbone/le-monoxyde-de-carbone-co-en-d-tail/quelles-sont-les-concentrations-toxiques-de)). On peut donc dire que notre capteur est fonctionnel. 
 Il faut maintenant que l'on rajoute ce programme au programme qui gère la modulation LoRa pour que les données soient directement envoyée sur [MyDevice Cayenne]( https://mydevices.com) pour pouvoir être exploité.
