@@ -120,4 +120,7 @@ Cela fait 10 jours que nous avons laisser le capteur dans une salle de cours. Le
 Nous avons testé le programme du CO que nous avions fait il y a quelques séances. Les données étant de l'ordre du ppm sont en accord avec les normes ([Taux ppm](https://www.centreantipoisons.be/monoxyde-de-carbone/le-monoxyde-de-carbone-co-en-d-tail/quelles-sont-les-concentrations-toxiques-de)). On peut donc dire que notre capteur est fonctionnel. 
 Il faut maintenant que l'on rajoute ce programme au programme qui gère la modulation LoRa pour que les données soient directement envoyée sur [MyDevice Cayenne]( https://mydevices.com) pour pouvoir être exploité.
 
+## 30 mars 2018 
+
+J’ai rajouté le programme du CO à celui de la communication LoRa ; pour le tester il faut récupérer la mini carte Arduino que nous avons laisser dans le labo d’elec pour qu’elle continue à transmettre les données sur l’humidité et la température. 
 
