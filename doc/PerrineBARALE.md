@@ -124,3 +124,12 @@ Il faut maintenant que l'on rajoute ce programme au programme qui gère la modul
 
 J’ai rajouté le programme du CO à celui de la communication LoRa ; pour le tester il faut récupérer la mini carte Arduino que nous avons laisser dans le labo d’électronique pour qu’elle continue à transmettre les données sur l’humidité et la température. 
 
+## Séance du 04 avril 2018 _ SEANCE 9
+
+Aujourd'hui, nous avons fait notre présentation orale de mi-parcours du projet (cf [Présentation.2](https://github.com/Capteurs-Batiments/CapteursBatiments/blob/master/doc/Projet%20arduino2.pdf)). 
+
+Puis nous avons connecté le MQ7 avec l’Arduino où est connecté la pile. Nous avons donc l’intérieur d’un boîtier terminé. Pour finir celui-ci, il ne manque que quelques soudages et la fabrication de l’extérieur du boîtier.
+
+Puis nous avons commencé des recherches pour éventuellement remplacé le capteur de présence qui n’est pas très efficace par un capteur HB100 Doppler avec lequel nous détecterions une vitesse et en déduirons la présence de quelqu’un.
+
+![HB100]( https://ae01.alicdn.com/kf/HTB18YyUadbJ8KJjy1zjq6yqapXaF/2-PCS-HB100-Micro-ondes-Radar-Doppler-Module-Sans-Fil-Motion-Sensor-HB100-micro-ondes-Motion.jpg_640x640.jpg)
