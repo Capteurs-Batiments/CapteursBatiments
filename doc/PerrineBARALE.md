@@ -122,5 +122,5 @@ Il faut maintenant que l'on rajoute ce programme au programme qui gère la modul
 
 ## 30 mars 2018 
 
-J’ai rajouté le programme du CO à celui de la communication LoRa ; pour le tester il faut récupérer la mini carte Arduino que nous avons laisser dans le labo d’elec pour qu’elle continue à transmettre les données sur l’humidité et la température. 
+J’ai rajouté le programme du CO à celui de la communication LoRa ; pour le tester il faut récupérer la mini carte Arduino que nous avons laisser dans le labo d’électronique pour qu’elle continue à transmettre les données sur l’humidité et la température. 
 
