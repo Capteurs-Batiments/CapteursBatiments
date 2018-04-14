@@ -99,12 +99,40 @@ Il existe également une application mobile Cayenne, qui possède les mêmes fon
 
 Nous sommes donc capables de vérifier que le capteur fonctionne sans l'avoir obligatoirement près de nous.
 
+Nous avons également regardé le programme utilisé dans le Martian Rover Project, car ce projet utilise, comme nous, un capteur MQ-7 pour relever le taux de monoxyde de carbone. Nous avons donc copié la partie qui nous intéressait (quelques lignes) car nous avons été incapables d'écrire nous-même un programme qui affichait des valeurs raisonnables.
+
 
 
 ## Séance du 27 mars 2018
 
-Nous sommes en train de modifier le programme utilisé pour faire communiquer le DHT11 avec la gateway.
-En effet, il faut rajouter
+Nous avons testé le programme trouvé à la séance précédente (celui du MQ-7). Celui-ci affiche sur le moniteur série des valeurs convenables.  
+Nous sommes donc en train d'ajouter ce programme à celui utilisé pour faire communiquer le DHT11 avec la gateway, pour que les relevés de monoxyde de carbone soient accessibles via myCayenne.
+
+
+
+## Séance du 4 avril 2018
+
+Aujourd'hui a eu lieu la deuxième présentation orale, où nous devions présenter nos avancées, les problèmes rencontrés, ainsi qu'une mise à jour de nos objectifs. Tout cela est résumé dans le [power point](https://github.com/Capteurs-Batiments/CapteursBatiments/blob/master/doc/Projet%20arduino2.pdf) présent sur ce GitHub.
+
+Nous avons eu le temps d'ajouter le capteur MQ-7 au reste du circuit, il communique désormais avec la carte mini Arduino.
+On a donc pu tester le nouveau programme, complété par Perrine durant la semaine : le capteur envoie désormais les données à myCayenne.  
+
+Finalement, le circuit est au complet et est opérationnel, mais nous envisageons de remplacer le DHT11 par un capteur DHT22 plus précis dans les mesures.  
+Il faudra également retirer les leds de tous les composants car celles-ci consomment trop d'énergie.  
+
+Monsieur Masson nous a donné un nouveau capteur : le HB100 Doppler, pour pallier notre problème du capteur de présence PIR, trop imprécis pour être utlisé comme nous l'espérions.  
+Cependant ce nouveau capteur n'est pas un détecteur de présence, mais de mouvement. Il est donc difficilement utilisable pour mesurer le taux d'occupation d'une pièce comme nous le voulions. Je vais cependant effectuer des recherches pour voir de quelles manières nous pourrions l'utiliser efficacement, mais je reste sceptique.
+
+
+
+## Mardi 10 avril 2018
+
+Nous ne recevons plus de données sur l'application myCayenne depuis quelques jours. Nous sommes donc allées jeter un coup d'oeil à notre capteur laissé dans la salle de TP.  
+Nous avons remarqué que les leds des composants n'etaient pas allumées, cela signifie que les piles sont déchargées, il faut donc les remplacer dès que possible.
+
+
+
+
 
 
 
