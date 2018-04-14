@@ -100,3 +100,12 @@ Il existe également une application mobile Cayenne, qui possède les mêmes fon
 Nous sommes donc capables de vérifier que le capteur fonctionne sans l'avoir obligatoirement près de nous.
 
 
+
+## Séance du 27 mars 2018
+
+Nous sommes en train de modifier le programme utilisé pour faire communiquer le DHT11 avec la gateway.
+En effet, il faut rajouter
+
+
+
+
