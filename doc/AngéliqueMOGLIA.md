@@ -136,6 +136,12 @@ Nous avons remarqué que les leds des composants n'etaient pas allumées, cela s
 
 J'ai amené des piles, on a donc pu remplacer les anciennes qui avaient cessé d'alimenter le circuit. Désormais le capteur fonctionne à nouveau, on peut continuer de développer le projet.  
 Aujourd'hui j'ai effectué des tests en brûlant un bout de papier près du capteur de monoxyde de carbone. Celui-ci a immédiatement détecté le changement, en effet le taux de CO affiché sur myCayenne est plus élevé.  
-En revanche, je précise que les données de CO affichées sur le site correspondent au taux (en ppm) multiplié par 100. On a remarqué cela en observant les relevés et en les comparant à des taux normaux. Cependant le capteur manque tout de même de précision : il aurait fallu l'étalonner.
+En revanche, je précise que les données de CO affichées sur le site correspondent au taux (en ppm) multiplié par 100. On a remarqué cela en observant les relevés et en les comparant à des taux normaux. Cependant le capteur manque tout de même de précision : il aurait fallu l'étalonner, mais nous n'avons pas les qualifications nécessaires pour le faire.
+
+
+
+## Samedi 21 avril 2018
+
+Je remarque que le capteur a cessé de fonctionner le mardi 17 avril, quelques heures seulement après avoir quitté la salle. Pourtant les piles venaient d'être remplacées par des neuves. Donc il va rapidement falloir trouver d'où vient le problème, s'il y a dysfonctionnement d'un des composants, ou si les piles sont insuffisantes pour alimenter le système.
 
 
