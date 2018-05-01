@@ -118,6 +118,8 @@ Cela fait 10 jours que nous avons laisser le capteur dans une salle de cours. Le
 ## Séance du 27 mars 2018 _ SEANCE 8
 
 Nous avons testé le programme du CO que nous avions fait il y a quelques séances. Les données étant de l'ordre du ppm sont en accord avec les normes ([Taux ppm](https://www.centreantipoisons.be/monoxyde-de-carbone/le-monoxyde-de-carbone-co-en-d-tail/quelles-sont-les-concentrations-toxiques-de)). On peut donc dire que notre capteur est fonctionnel. 
+Le capteur MQ7 manque cependant de précision car nous aurions du l’étalonné dans un gaz pour qu’il donne des valeurs précises.
+
 Il faut maintenant que l'on rajoute ce programme au programme qui gère la modulation LoRa pour que les données soient directement envoyée sur [MyDevice Cayenne]( https://mydevices.com) pour pouvoir être exploité.
 
 ## 30 mars 2018 
@@ -126,10 +128,31 @@ J’ai rajouté le programme du CO à celui de la communication LoRa ; pour le 
 
 ## Séance du 04 avril 2018 _ SEANCE 9
 
-Aujourd'hui, nous avons fait notre présentation orale de mi-parcours du projet (cf [Présentation.2](https://github.com/Capteurs-Batiments/CapteursBatiments/blob/master/doc/Projet%20arduino2.pdf)). 
+Aujourd'hui, nous avons fait notre présentation orale de mi-parcours du projet (cf [Présentation.2](https://github.com/Capteurs-Batiments/CapteursBatiments/blob/master/doc/Projet%20arduino2.pdf)) : Nous avons mis à jour notre planning ainsi que présenté l’avancé de notre projet. Nous avons également fait un point sur le matériel dont nous pouvons avoir besoin dans la suite.
 
-Puis nous avons connecté le MQ7 avec l’Arduino où est connecté la pile. Nous avons donc l’intérieur d’un boîtier terminé. Pour finir celui-ci, il ne manque que quelques soudages et la fabrication de l’extérieur du boîtier.
+Puis nous avons connecté le MQ7 avec l’Arduino où est connecté la pile. Nous avons donc l’intérieur d’un boîtier terminé. Pour finir celui-ci, il ne manque que quelques soudages et la fabrication de l’extérieur du boîtier. Nous pensons également déssouder les led présentes dans la mini carte arduino et le capteur DHT11 pour éviter toutes pertes d’énergie inutile.
 
 Puis nous avons commencé des recherches pour éventuellement remplacé le capteur de présence qui n’est pas très efficace par un capteur HB100 Doppler avec lequel nous détecterions une vitesse et en déduirons la présence de quelqu’un.
 
 ![HB100]( https://ae01.alicdn.com/kf/HTB18YyUadbJ8KJjy1zjq6yqapXaF/2-PCS-HB100-Micro-ondes-Radar-Doppler-Module-Sans-Fil-Motion-Sensor-HB100-micro-ondes-Motion.jpg_640x640.jpg)
+
+## 06 avril 2018
+
+J’ai trouvé un programme pour le doppler mais celui-ci ne pourra marcher que si on lui rajoute un amplificateur opérationnel. 
+
+![AOP]( https://i.stack.imgur.com/N7aig.png)
+
+J’ai donc envoyé la liste des composants dont nous aurions besoin.
+
+## Séance du 17 avril 2018_SEANCE 10
+
+Le capteur avait arrêté de fonctionnait une semaine auparavant. Nous pensions alors que les piles étaient mortes. Angélique à donc amener des piles pour que l’on puisse remplacer les piles des capteurs. En changeant les piles les capteurs ont recommencé a fonctionnait, cependant nous pensons que le capteur de CO consomme plus d’énergie car nous avons l’impression que les piles se vide plus rapidement.
+
+Nous avons également voulu tester si les taux de CO fluctuait bien si on faisait bruler quelque chose a coté du capteur. Angélique a donc fait bruler du papier de façon a ce que la fumée soit directement en contact avec le capteur. Nous avons donc observé que le taux de CO à augmenter.
+
+J’ai vu avec Mr MASSON pour l’AOP dont nous avons besoin pour faire marcher le doppler. Il m’a donc donné un AOP déjà tout câblé (CJMCU-333) et je dois regarder si celui-ci marcherai avec le HB100 car nous ne savons pas vraiment si l’AOP recommandé (voir 06/04/18) et le CJMCU-333 ont la même fonctionnalité.
+
+![CJMCU-333]( https://microjpm.com/_files/200006395-a8a84a9a3e/AD30574%20uJPM.jpg)
+
+Après avoir effectuer les branchements je remarque que l’Arduino ne renvoi aucune information. J’ai donc dans un premier tant vérifié si nous observions un signal grâce à l’oscilloscope et c’est le cas. Il faut donc que je continue les recherches sur le CJMCU-333 mais je ne pense pas que ce soit le bon AOP pour ce doppler.
+
