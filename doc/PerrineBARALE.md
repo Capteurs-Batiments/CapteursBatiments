@@ -111,7 +111,7 @@ Nous pouvons donc dire que le capteur DHT11 est opérationnel. Nous nous demando
 
 Pour le capteur CO, il faut que nous réessayons le programme car celui-ci nous envoyé des valeurs aberrantes. En ayant fait des recherches, j’ai pu le modifier et il faudrait le tester pour vérifier si les valeurs sont exactes.
 
-## 25 mars 2018
+## Dimanche 25 mars 2018
 
 Cela fait 10 jours que nous avons laisser le capteur dans une salle de cours. Les données sont encore transmises à l’application [MyDevice Cayenne]( https://mydevices.com) et des graphes de température et d’humidité commencent à prendre forme. Le capteur DHT11 fonctionne comme il faut et nous pouvons nous concentrer sur les deux autres capteurs qui nous demandent plus de recherches.
 
@@ -122,7 +122,7 @@ Le capteur MQ7 manque cependant de précision car nous aurions du l’étalonné
 
 Il faut maintenant que l'on rajoute ce programme au programme qui gère la modulation LoRa pour que les données soient directement envoyée sur [MyDevice Cayenne]( https://mydevices.com) pour pouvoir être exploité.
 
-## 30 mars 2018 
+## Vendredi 30 mars 2018 
 
 J’ai rajouté le programme du CO à celui de la communication LoRa ; pour le tester il faut récupérer la mini carte Arduino que nous avons laisser dans le labo d’électronique pour qu’elle continue à transmettre les données sur l’humidité et la température. 
 
@@ -136,7 +136,7 @@ Puis nous avons commencé des recherches pour éventuellement remplacé le capte
 
 ![HB100]( https://ae01.alicdn.com/kf/HTB18YyUadbJ8KJjy1zjq6yqapXaF/2-PCS-HB100-Micro-ondes-Radar-Doppler-Module-Sans-Fil-Motion-Sensor-HB100-micro-ondes-Motion.jpg_640x640.jpg)
 
-## 06 avril 2018
+## Vendredi 06 avril 2018
 
 J’ai trouvé un programme pour le doppler mais celui-ci ne pourra marcher que si on lui rajoute un amplificateur opérationnel. 
 
