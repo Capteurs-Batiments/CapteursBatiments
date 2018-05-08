@@ -162,6 +162,9 @@ Nous avons commencé le 2ème capteur : soudé une carte mini Arduino et un mod
 
 De plus nous avons remarqué que le capteur de CO consomme trop pour notre utilisation. En effet, en 4h les piles se sont totalement déchargées alors qu’elles avaient durées 3 semaines lorsque l’on avait seulement le DHT11 branché. En effet pour que ce capteur marche, il faut le chauffer avant d’effectuer les mesures (environ 10 minutes d’après nos observations).  Pour se chauffer, le capteur doit récupérer environ 1A et cela fait que les piles se déchargent trop vite ([Datasheet]( https://cdn.sparkfun.com/datasheets/Sensors/Biometric/MQ-7%20Ver1.3%20-%20Manual.pdf)). Nous devons donc réfléchir à une solution pour ce problème.
 
+## Séance du 07 mai 2018_SEANCE 12
+
+
 
  
 
