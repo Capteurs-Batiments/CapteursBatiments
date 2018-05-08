@@ -161,14 +161,21 @@ Ainsi malheureusement durant la semaine on ne pourra consulter que les données 
 
 ## Jeudi 3 mai 2018
 
-Le capteur a cessé de fonctionner la veille de 16h00.
+Le capteur a cessé de fonctionner la veille à 16h00.
 
 
 
 ## Lundi 7 mai 2018
 
+J’ai constaté que quelqu’un avait retiré les piles de notre capteur, puis ne les avait pas remises correctement (quelqu'un du groupe 4 manifestement). Cela explique pourquoi pendant une semaine nous n’avons pas pu recevoir de données sur l'application.  
+Nous avons également finalisé le second capteur. Nous l'avons rendu autonome en reliant le circuit à un support pour piles. Désormais il envoie des données tout comme le premier capteur.
 
+En revanche, le 1er capteur est constitué d'un DHT11, tandis que le deuxième possède un DHT22. On devrait logiquement avoir des données plus précises avec le deuxième.  
+En effet, il a une précision de 0,1.
+Cependant les deux capteurs relèvent rarement les mêmes informations : pour le second la température est souvent plus élevée et l’humidité plus faible.  
+On verra par la suite si cet écart persiste et, si oui, il vaudrait donc mieux remplacer le DHT11 par un DHT22.
 
-
+De plus le support pour pile que nous a donné M. Masson ne peut contenir que des piles AAA, qui vont se vider plus vite que des AA. En effet, nous avons pris à chaque fois 2 piles de 1,5V pour avoir un total de 3V pour alimenter le système. En revanche les piles AA LR6 sont plus fortes en intensité (plus du double) que les piles AAA LR3 (voir [lien](https://fr.wikipedia.org/wiki/Format_des_piles_et_accumulateurs_%C3%A9lectriques)).  
+Donc on verra également s'il est nécessaire de changer le support contre celui pour piles AA, sinon les piles risquent de se vider en moins d'une semaine.
 
 
