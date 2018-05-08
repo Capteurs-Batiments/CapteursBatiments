@@ -164,7 +164,13 @@ De plus nous avons remarqué que le capteur de CO consomme trop pour notre utili
 
 ## Séance du 07 mai 2018_SEANCE 12
 
+Le capteur que nous avions laissé dans la salle pour lui permettre de continuer a retransmettre les informations s'est arrêté mercredi derniers : les piles avaient été débranché par quelqu'un donc ce n'est pas un problème électronique.
 
+Nous avons rajouté les piles au second capteurs pour qu'il puisse être autonome et nous renvoyer des informations tout au long de la semaine comme le premier. Pour cela, nous avons du soudé le support pile avec les fils puis nous l'avons soudé à l'UCA bord.
+
+![Supportpile](https://images.eclats-antivols.fr/images_eclats/jr/18650BO2.jpg)
+
+Nous recevons donc les informations des 2 capteurs sur [MyDevice Cayenne]( https://mydevices.com/ ). Les températures et les humidités ne sont pas tout à fait les mêmes. En effet le DHT11 a une précision à 1° prés tandis que le DHT22 à une précison à 0,1° prés. Cependant les températures varies parfois notablement (25,3° pour le DHT22 et 22° pour le DHT11). De même pour l'humidité. Nous devpons faire un choix sur quel capteur nous devons garder.
 
  
 
