@@ -145,3 +145,30 @@ En revanche, je précise que les données de CO affichées sur le site correspon
 Je remarque que le capteur a cessé de fonctionner le mardi 17 avril, quelques heures seulement après avoir quitté la salle. Pourtant les piles venaient d'être remplacées par des neuves. Donc il va rapidement falloir trouver d'où vient le problème, s'il y a dysfonctionnement d'un des composants, ou si les piles sont insuffisantes pour alimenter le système.
 
 
+
+## Mercredi 2 mai 2018
+
+J'ai testé les piles avec un testeur de pile, elles étaient de nouveau déchargées. Nous sommes persuadées que c'est à cause du capteur de monoxyde de carbone MQ-7, qui consomme beaucoup trop, en effet avant de faire une mesure, celui-ci nécessite un temps de chauffe relativement long, ce qui vide très rapidement la batterie (en seulement quelques heures).  
+Nous l'avons donc enlevé, soit définitivement, soit le temps de trouver une soluion.
+
+Aujourd'hui nous avons également commencé la création du deuxième capteur, car nous avons enfin reçu un DHT22.  
+Donc on a soudé la mini-Arduino et le capteur sur le PCB et Perrine l'a ajouté sur [The Things Network](https://www.thethingsnetwork.org/) et sur [MyDevices Cayenne](https://mydevices.com/).  
+
+Le nouveau capteur envoie des informations quand il est alimenté par l'ordinateur : il fonctionne, mais il n'est pas encore autonome.  
+Ainsi malheureusement durant la semaine on ne pourra consulter que les données du premier capteur sur l’applicaion myCayenne.
+
+
+
+## Jeudi 3 mai 2018
+
+Le capteur a cessé de fonctionner la veille de 16h00.
+
+
+
+## Lundi 7 mai 2018
+
+
+
+
+
+
