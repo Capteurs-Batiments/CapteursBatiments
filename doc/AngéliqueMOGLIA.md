@@ -148,8 +148,8 @@ Je remarque que le capteur a cessé de fonctionner le mardi 17 avril, quelques h
 
 ## Séance du 2 mai 2018
 
-J'ai testé les piles avec un testeur de pile, elles étaient de nouveau déchargées. Nous sommes persuadées que c'est à cause du capteur de monoxyde de carbone MQ-7, qui consomme beaucoup trop, en effet avant de faire une mesure, celui-ci nécessite un temps de chauffe relativement long, ce qui vide très rapidement la batterie (en seulement quelques heures).  
-Nous l'avons donc enlevé, soit définitivement, soit le temps de trouver une soluion.
+J'ai testé les piles avec un testeur de pile, elles étaient de nouveau déchargées. Nous sommes persuadées que c'est à cause du capteur de monoxyde de carbone MQ-7, qui consomme beaucoup trop. En effet avant de faire une mesure, celui-ci nécessite un temps de chauffe relativement long, ce qui vide très rapidement la batterie (en seulement quelques heures).  
+Nous l'avons donc enlevé, soit définitivement, soit le temps de trouver une solution.
 
 Aujourd'hui nous avons également commencé la création du deuxième capteur, car nous avons enfin reçu un DHT22.  
 Donc on a soudé la mini-Arduino et le capteur sur le PCB et Perrine l'a ajouté sur [The Things Network](https://www.thethingsnetwork.org/) et sur [MyDevices Cayenne](https://mydevices.com/).  
