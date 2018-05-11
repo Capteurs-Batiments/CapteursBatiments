@@ -158,7 +158,7 @@ Après avoir effectuer les branchements je remarque que l’Arduino ne renvoi au
 
 ## Séance du 02 mai 2018_SEANCE 11
 
-Nous avons commencé le 2ème capteur : soudé une carte mini Arduino et un module de communication LoRa sur l’UCA bord. Nous avons, sur cette deuxième bord, placé un capteur DHT22 à la place du DHT11. Nous avons également connecté un nouveau module LoRa à la gateway pour pouvoir récupérer les informations sur [MyDevice Cayenne]( https://mydevices.com/ ). Le capteur transmet des information lorsqu'il est branché à l'ordinateur donc il fonctionne. Il ne restera qu'à le rendre autonome comme le premier (avec des piles).
+Nous avons commencé le 2ème capteur : soudé une carte mini Arduino et un module de communication LoRa sur l’UCA bord. Nous avons, sur cette deuxième bord, placé un capteur DHT22 à la place du DHT11. Nous avons également connecté un nouveau module LoRa à la gateway pour pouvoir récupérer les informations sur [MyDevice Cayenne]( https://mydevices.com/ ). Le capteur transmet des informations lorsqu'il est branché à l'ordinateur donc il fonctionne. Il ne restera qu'à le rendre autonome comme le premier (avec des piles).
 
 De plus nous avons remarqué que le capteur de CO consomme trop pour notre utilisation. En effet, en 4h les piles se sont totalement déchargées alors qu’elles avaient durées 3 semaines lorsque l’on avait seulement le DHT11 branché. En effet pour que ce capteur marche, il faut le chauffer avant d’effectuer les mesures (environ 10 minutes d’après nos observations).  Pour se chauffer, le capteur doit récupérer environ 1A et cela fait que les piles se déchargent trop vite ([Datasheet]( https://cdn.sparkfun.com/datasheets/Sensors/Biometric/MQ-7%20Ver1.3%20-%20Manual.pdf)). Nous devons donc réfléchir à une solution pour ce problème.
 
@@ -170,7 +170,7 @@ Nous avons rajouté les piles au second capteurs pour qu'il puisse être autonom
 
 ![Supportpile](https://images.eclats-antivols.fr/images_eclats/jr/18650BO2.jpg)
 
-Nous recevons donc les informations des 2 capteurs sur [MyDevice Cayenne]( https://mydevices.com/ ). Les températures et les humidités ne sont pas tout à fait les mêmes. En effet le DHT11 a une précision à 1° prés tandis que le DHT22 à une précison à 0,1° prés. Cependant les températures varies parfois notablement (25,3° pour le DHT22 et 22° pour le DHT11). De même pour l'humidité. Nous devpons faire un choix sur quel capteur nous devons garder.
+Nous recevons donc les informations des 2 capteurs sur [MyDevice Cayenne]( https://mydevices.com/ ). Les températures et les humidités ne sont pas tout à fait les mêmes. En effet le DHT11 a une précision à 1° prés tandis que le DHT22 à une précison à 0,1° prés. Cependant les températures varient parfois notablement (25,3° pour le DHT22 et 22° pour le DHT11). De même pour l'humidité. Nous devpons faire un choix sur quel capteur nous devons garder.
 
  
 
