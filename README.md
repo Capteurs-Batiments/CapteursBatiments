@@ -31,11 +31,9 @@ Pour la transmission d'informations des capteurs jusqu'à un serveur sur le web,
 
 - [X] Programme du capteur DHT11_température/humidité (cf [DHT11](https://github.com/Capteurs-Batiments/CapteursBatiments/blob/master/Code%20Arduino/DHT11)).
 - [X] Circuit du capteur DHT11_température/humidité (cf [Circuits]( https://github.com/Capteurs-Batiments/CapteursBatiments/blob/master/doc/Montage.md)).
-- [X] Programme du capteur MQ-7_CO.
-- [X] Circuit du capteur MQ-7_CO (cf [Circuits]( https://github.com/Capteurs-Batiments/CapteursBatiments/blob/master/doc/Montage.md)).
-- [ ] Programme du capteur de présence_PIRsensor.
-- [X] Circuit du capteur de présence_PIRsensor (cf [Circuits]( https://github.com/Capteurs-Batiments/CapteursBatiments/blob/master/doc/Montage.md)).
+- [X] Programme du capteur MQ-7_CO. (Consomme trop donc on ne le branchera pas)
+- [X] Circuit du capteur MQ-7_CO (cf [Circuits]( https://github.com/Capteurs-Batiments/CapteursBatiments/blob/master/doc/Montage.md)). (Consomme trop donc on ne le branchera pas)
 - [X] Communication LoRa.
-- [ ] Boitiers accrochables au mur.
+- [X] Boitiers accrochables au mur.
 
 
