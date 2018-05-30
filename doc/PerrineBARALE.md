@@ -174,7 +174,7 @@ Nous recevons donc les informations des 2 capteurs sur [MyDevice Cayenne]( https
 
 ## Mercredi 30 mai 2018
 
-Demain nous allons faire la dernière présentation du projet. Le projet est terminé, nous avons 2 capteurs opérationels qui transmettent des informations via la gateway et le site MyDevice Cayenne. 
+Demain nous allons faire la dernière présentation du projet. Le projet est terminé, nous avons 2 capteurs opérationnels qui transmettent des informations via la gateway et le site [MyDevice Cayenne]( https://mydevices.com/ ). 
 
 ![Sie](https://s15.postimg.cc/v7kwqvmvf/Capture_d_cran_2018-05-30_22.24.08.png)
 
