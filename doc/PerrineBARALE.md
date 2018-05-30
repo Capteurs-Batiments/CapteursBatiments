@@ -172,6 +172,8 @@ Nous avons rajouté les piles au second capteurs pour qu'il puisse être autonom
 
 Nous recevons donc les informations des 2 capteurs sur [MyDevice Cayenne]( https://mydevices.com/ ). Les températures et les humidités ne sont pas tout à fait les mêmes. En effet le DHT11 a une précision à 1° prés tandis que le DHT22 à une précision à 0,1° prés. Cependant les températures varient parfois notablement (25,3° pour le DHT22 et 22° pour le DHT11). De même pour l'humidité. Nous devons faire un choix sur quel capteur nous devons garder.
 
- 
+## Mercredi 30 mai 2018
+
+Demain nous allons faire la dernière présentation du projet. Le projet est terminé, nous avons 2 capteurs opérationels qui transmettent des informations via la gateway et le site MyDevice Cayenne. 
 
 
