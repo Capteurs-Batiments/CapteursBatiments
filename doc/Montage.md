@@ -7,13 +7,3 @@
 ## Capteur de CO MQ-7
 
 ![CircuitCapteurMQ7](http://osoyoo.com/wp-content/uploads/2016/06/MQ-7_bb.jpg )
-
-## Capteur de présence PIRsensor
-
-![CapteurPIRsensor](https://cdn-learn.adafruit.com/assets/assets/000/000/543/medium800/proximity_pirardbb.gif?1447976079 )
-
-
-
-
-
-
