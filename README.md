@@ -38,4 +38,4 @@ Pour la transmission d'informations des capteurs jusqu'à un serveur sur le web,
 
 ## Projet terminé
 
-![photo du prejet](https://postimg.cc/image/lnxwbcenr/)
+![photo du projet](https://s15.postimg.cc/9m2ih75ff/34101795_1912150418796277_991167414127296512_n.jpg)
