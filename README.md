@@ -36,4 +36,6 @@ Pour la transmission d'informations des capteurs jusqu'à un serveur sur le web,
 - [X] Communication LoRa.
 - [X] Boitiers accrochables au mur.
 
+## Projet terminé
 
+![photo du prejet](https://postimg.cc/image/lnxwbcenr/)
