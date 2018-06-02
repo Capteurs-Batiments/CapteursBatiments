@@ -40,6 +40,6 @@ Pour la transmission d'informations des capteurs jusqu'à un serveur sur le web,
 
 Nous avons réalisé 2 capteurs identiques (comme ci-dessous) qui transmettent des informations sur la température et l'humidité à distance pour le suivi des bâtiments par les élèves ingénieurs.
 
-Lien vers les données du capteurs : [Données](https://cayenne.mydevices.com/shared/5b0fb4ed6b3d5c1a6285a97d)
+Lien vers les données des capteurs : [Données](https://cayenne.mydevices.com/shared/5b0fb4ed6b3d5c1a6285a97d)
 ![photo du projet](https://s15.postimg.cc/9m2ih75ff/34101795_1912150418796277_991167414127296512_n.jpg)
 
