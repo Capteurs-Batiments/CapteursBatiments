@@ -4,12 +4,12 @@
 
 
 Ce projet est réalisé dans le cadre de la formation de la prépa intégrée de Polytech'Nice Sophia. 
-Ce projet est rendu possible grâce a Mr Masson ([siteweb]( http://users.polytech.unice.fr/~pmasson/Enseignement.htm)) et Mr Ferrero ([siteweb]( http://users.polytech.unice.fr/~ferrero/enseignement.html)), nos enseignants en électronique Peip2. 
+Ce projet est rendu possible grâce à M. Masson ([siteweb]( http://users.polytech.unice.fr/~pmasson/Enseignement.htm)) et M. Ferrero ([siteweb]( http://users.polytech.unice.fr/~ferrero/enseignement.html)), nos enseignants en électronique Peip2. 
 
 
 ## Description du projet
 
-Nous allons réaliser différents capteurs pour le bâtiment comme des capteurs de température, d'humidité, de CO ou encore de présence. Ce projet est en lien avec le département Bâtiment de Polytech Nice-Sophia car actuellement ces capteurs coutent trop cher pour une université. Avec la technologie Arduino, nous allons essayer de produire des capteurs efficaces pour un moindre coût.
+Nous allons réaliser différents capteurs pour le bâtiment comme des capteurs de température, d'humidité, de CO ou encore de présence. Ce projet est en lien avec le département Bâtiments Intelligents de Polytech Nice-Sophia, car actuellement ces capteurs coûtent trop cher pour une université. Avec la technologie Arduino, nous allons essayer de produire des capteurs efficaces pour un moindre coût.
 
 ![Arduino logo](https://www.arduino.cc/arduino_logo.png)
 
